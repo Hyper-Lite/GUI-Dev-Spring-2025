@@ -2,7 +2,8 @@
 
 ## About Me
 **Name:** Harold Sanders  Jr 
-*Class:* GUI Development, Spring 2025
+
+Class: *GUI Development, Spring 2025*
 
 ---
 
